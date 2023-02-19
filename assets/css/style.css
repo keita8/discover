@@ -902,8 +902,9 @@ body.nav-active{
     gap: 30px;
   }
 
-}
 
+
+}
 
 
 @media (min-width: 768px) {
@@ -1130,7 +1131,6 @@ body.nav-active{
     margin-inline: auto;
   }
 }
-
 
 
 @media (min-width: 1200px) {
