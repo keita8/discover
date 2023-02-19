@@ -148,7 +148,7 @@ input{
 
 button{ cursor: pointer !important;}
 
-ion-icon{ pointer-events: none; }
+ion-icon{ pointer-events: none; color: #000;}
 
 address { font-size: normal; }
 
