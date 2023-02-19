@@ -835,6 +835,7 @@ body.nav-active{
 
 .input-btn ion-icon{
   transform: translateX(-2px) rotate(45deg);
+  color: var(--bg-white);
 }
 
 .input-btn:is(:hover, :focus-visible){ background-color: var(--bg-ocean-blue); }
